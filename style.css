@@ -4,8 +4,7 @@ body {
     color: white;
 }
 
-h1
-{
+h1{
     color:grey;
     font-family:verdana;
 }
@@ -13,9 +12,26 @@ h1
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-self: center;
+    margin: auto;
+}
+
+#principal{
+    margin-left: 100px;
+}
+
+#rate{
+    margin-left: 63px;
+}
+
+#years{
+    margin-left: 70px;
+}
+
+.content{
+    margin:5%;
+    margin-left: 50px;
 }
 
